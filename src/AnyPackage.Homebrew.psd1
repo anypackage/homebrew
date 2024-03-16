@@ -25,7 +25,7 @@
 			Providers = 'Homebrew'
 		}
 		PSData = @{
-			Tags = @('AnyPackage','Provider','Homebrew','Windows')
+			Tags = @('AnyPackage','Provider','Homebrew','Brew','MacOS','Linux')
 			LicenseUri = 'https://github.com/anypackage/Homebrew/blob/main/LICENSE'
 			ProjectUri = 'https://github.com/anypackage/Homebrew'
 			ReleaseNotes = 'Please see https://github.com/anypackage/Homebrew/blob/main/CHANGELOG.md for release notes'
