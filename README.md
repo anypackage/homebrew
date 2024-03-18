@@ -5,7 +5,7 @@
 [![cf-image]][cf-site]
 
 [gallery-image]: https://img.shields.io/powershellgallery/dt/AnyPackage.Homebrew
-[build-image]: https://img.shields.io/github/actions/workflow/status/anypackage/Homebrew/ci.yml
+[build-image]: https://img.shields.io/github/actions/workflow/status/anypackage/homebrew/CI.yml
 [cf-image]: https://img.shields.io/codefactor/grade/github/anypackage/Homebrew
 [gallery-site]: https://www.powershellgallery.com/packages/AnyPackage.Homebrew
 [build-site]: https://github.com/anypackage/homebrew/actions/workflows/CI.yml
